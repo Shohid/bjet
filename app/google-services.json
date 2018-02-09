@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "503325335024",
+    "firebase_url": "https://b-jet-d92c3.firebaseio.com",
+    "project_id": "b-jet-d92c3",
+    "storage_bucket": "b-jet-d92c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503325335024:android:a0e1e4974c871acd",
+        "android_client_info": {
+          "package_name": "com.blogspot.larn4android.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503325335024-a01obp7umj2trgftm4vqfikf8kj0b81n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGO2_uxsWBlxm08SgAp-yEe_ct_3mkxyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
